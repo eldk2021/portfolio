@@ -16,13 +16,14 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [rland](https://github.com/eldk2021)
->카페 비대면 주문 시스템 (팀 프로젝트) (미완성) 
->개발 기간: 2022.8.10 ~ 2022.11.30  
+### 1. [153drk](https://www.153drk.com:15300)
+>성경 읽기 사이트 (개인 프로젝트)
+>개발 기간: 2023.11 ~ 진행중
 >  
 >기술 스택:  
->Java 8 / Maven / JSP MVC model2 / Filter / Tiles
->GSON / Ajax / WebSocket / Oracle
+>Java 11 / Maven / JSP MVC model2 / jquery / jstl
+>Java mail sender / GSON / Ajax / mysql 
+>spring boot / mybatis
 >
 >HTML5 / CSS3, DOM / CSSOM
 >Git&Github
@@ -31,8 +32,8 @@
 
 ---
 
-### 2. [두 번째 프로젝트]()
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
+### 2. [rland](https://github.com/eldk2021)
+>카페 비대면 주문 시스템 (팀 프로젝트)
 >개발 기간: 2022.8.10 ~ 2022.11.30  
 >  
 >기술 스택:  
