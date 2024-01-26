@@ -16,7 +16,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [153drk](https://www.153drk.com:15300)
+### 1. [153drk](https://www.153drk.com)
 >성경 읽기 사이트 (개인 프로젝트)
 >개발 기간: 2023.11 ~ 진행중
 >  
@@ -28,7 +28,7 @@
 >HTML5 / CSS3, DOM / CSSOM
 >Git&Github
 >
->[프로젝트 상세 설명](https://github.com/eldk2021) 참고
+>[프로젝트 상세 설명](https://github.com/eldk2021/portfolio/blob/main/bible-study.md) 참고
 
 ---
 
